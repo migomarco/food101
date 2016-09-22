@@ -5,3 +5,33 @@
 	“Food” : [
 }
 
+ice
+water
+eggs
+milk
+salt
+pepper
+onions
+cheese
+ramen
+
+broccoli
+spinach
+teabag
+tomatoes
+tobacco
+cocaine
+ecstacy
+hashish
+ketamine
+
+mayo
+ketchup
+mustard
+relish
+tofu
+protein powder
+Nesquik
+beans
+rice
+old yogurt
