@@ -1,9 +1,10 @@
 {
 	“origin”: [ “mix #alternatives# and #completely different# and #Food#”],
 	"alternatives" : ["ice", "water", "eggs", "milk", "salt", "pepper", "onions", "cheese", "ramen"],
-	"completely different" : ["and now for something completely different", "so long and thanks for all the fish", "or, maybe, #alternatives# badger"]
+	"completely different" : [“broccoli”, “spinach”, “teabag”, “tomatoes” , “tobacco” , “cocaine” , “ecstasy” “hashish” , “ketamine]
 	"Food" : [
-}
+}	
+
 
 ice
 water
