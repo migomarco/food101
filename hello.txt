@@ -1,8 +1,11 @@
 {
 	“origin”: [ “mix #alternatives# and #completely different# and #Food#”],
-	"alternatives" : ["an example", "a different", "another", "a possible", "a generated", "your next"],
-	"completely different" : ["and now for something completely different", "so long and thanks for all the fish", "or, maybe, #alternatives# badger"]
-	"Food" : ["mayo", "ketchup", "mustard", “relish”, “tofu”, “protein powder”, “
+	
+	"Food" : ["mayo", "ketchup", "mustard", “relish”, “tofu”, “protein powder”, “Nesquik”, “beans”, “rice”, “old yogurt”],
+
+	"alternatives" : ["ice", "water", "eggs", "milk", "salt", "pepper", "onions", "cheese", "ramen"],
+	
+	"completely different" : [“broccoli”, “spinach”, “teabag”, “tomatoes” , “tobacco” , “cocaine” , “ecstasy” “hashish” , “ketamine”],
 }
 
 ice
